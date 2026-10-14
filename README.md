@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ali Ahmed Jan 👋
 
-<!--
-**alyahmadjan/alyahmadjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst and BI Consultant specializing in **Power BI, data analytics, and AI-powered automation**. I build interactive dashboards, automate reporting workflows, and integrate APIs to help businesses make better use of their data.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 Building business intelligence dashboards with Power BI and Looker Studio
+* ⚙️ Automating reporting with Python, SQL, Google Sheets, and Apps Script
+* 🤖 Integrating APIs and AI tools to streamline data analysis
+* 🧩 Developing data models and scalable reporting solutions
+
+### Tech Stack
+
+Power BI · DAX · Power Query · SQL · Python · Excel · Looker Studio · Google Sheets · REST APIs
+
+### Connect with me
+
+* 💼 [Upwork](YOUR_UPWORK_PROFILE_URL)
+* 🌐 [Portfolio](https://alyahmadjan.github.io/quantum-spectra-website/)
+* 🐙 [GitHub](https://github.com/alyahmadjan)
