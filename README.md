@@ -52,7 +52,6 @@ GA4 · Google Ads · Meta Ads · LinkedIn Ads · Search Console · HubSpot · Sa
 * 💼 [Upwork](https://www.upwork.com/freelancers/~016b28ef2f2c6cfc1a)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/aliahmadjan/)
 * 🌐 [Portfolio Website](https://alyahmadjan.github.io/quantum-spectra-website/)
-* 🐙 [GitHub Projects](https://github.com/alyahmadjan)
 
 ---
 
