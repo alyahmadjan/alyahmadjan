@@ -1,4 +1,4 @@
-# Hi, I'm Ali Ahmed Jan 👋
+# Hi, I'm Ali Ahmad Jan 👋
 
 I'm a Data Analyst and BI Consultant specializing in **Power BI, data analytics, and AI-powered automation**. I build interactive dashboards, automate reporting workflows, and integrate APIs to help businesses make better use of their data.
 
